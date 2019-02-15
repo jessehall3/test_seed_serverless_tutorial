@@ -1,0 +1,11 @@
+{
+  "pathParameters": {
+    "id": "foo"
+  },
+  "body": "{\"content\":\"hello updated world\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
